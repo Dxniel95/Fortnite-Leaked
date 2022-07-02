@@ -23,13 +23,13 @@ Open `config.json` in your preferred text editor, fill the configurable values. 
 - `DiscordPresence`: Show the program rich presence on your profile!
 
 <p align="left">
-    <img src="![image](https://user-images.githubusercontent.com/84347435/177019064-685b8b3b-d9d3-4dad-9970-5d4421f1aae1.png)"  draggable="false">
+    <img src="https://cdn.discordapp.com/attachments/972568982190194740/992937126272450621/unknown.png"  draggable="false">
 </p>
 
 ## **Sample Cosmetic Image:**
 
 <p align="left">
-    <img src="![image](https://user-images.githubusercontent.com/84347435/177019075-0c13edcc-0540-40cf-a6d4-634eee5b827e.png)" width="512" draggable="false">
+    <img src="https://cdn.discordapp.com/attachments/972568982190194740/992937397551632394/unknown.png" width="512" draggable="false">
 </p>
 
 <p align="left">
