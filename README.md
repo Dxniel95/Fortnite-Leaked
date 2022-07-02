@@ -1,22 +1,19 @@
-# Fortnite-Leaked
-Soon...
+# **FORTNITE LEAKED**
 
-# **COSMETICS GENERATOR**
-
-This cosmetics generator allows you to generate the new Fortnite cosmetics, Search pak and search cosmetics!
+¡Este generador de cosméticos le permite generar el cosmetico que desees, y otorga la informacion precisa como "Path", "displayAssetPath", "definitionPath", etc.!
 
 Remember to put the language and the search language in [**config.json**](https://github.com/djlorenzouasset/Cosmetics-Generator/blob/main/config.json)
 
-# Requirements
+# Requeridos
 
-[Python >=3.8](https://www.python.org/downloads/) (installed on your computer)
+[Python >=3.8](https://www.python.org/downloads/)
 
-If you want install all requirements in one click open **(install.bat)**
+Si desea instalar todos los requisitos en un solo clic, abra **(install.bat)**
 
 
 # How to use?
 
-Open `config.json` in your preferred text editor, fill the configurable values. Once finished, save the file.
+Abre `config.json` en su editor de texto preferido, complete los valores configurables. Una vez terminado, guarde el archivo.
 
 - `language`: Set the language for Fortnite Data ([Supported Languages](https://fortnite-api.com/documentation))
 - `searchLanguage`: Set the language for search in Fortnite Data
