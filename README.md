@@ -37,7 +37,7 @@ Open `config.json` in your preferred text editor, fill the configurable values. 
 </p>
 
 
-## Credits
+## Creditos
 
-- Fortnite Data provided by [Fortnite-API](https://fortnite-api.com/)
-- Cataba assets property of [FModel](https://github.com/iAmAsval/FModel)
+- Datos de Fortnite proporcionados por [Fortnite-API](https://fortnite-api.com/)
+- Diseño de [FModel](https://github.com/iAmAsval/FModel)
