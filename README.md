@@ -11,13 +11,12 @@ Remember to put the language and the search language in [**config.json**](https:
 Si desea instalar todos los requisitos en un solo clic, abra **(install.bat)**
 
 
-# How to use?
+# ¿Cómo utilizar?
 
 Abre `config.json` en su editor de texto preferido, complete los valores configurables. Una vez terminado, guarde el archivo.
 
-- `language`: Set the language for Fortnite Data ([Supported Languages](https://fortnite-api.com/documentation))
-- `searchLanguage`: Set the language for search in Fortnite Data
-- `DiscordPresence`: Show the program rich presence on your profile!
+- `language`: Establecer el idioma para los datos de Fortnite ([Idiomas admitidos](https://fortnite-api.com/documentation))
+- `DiscordPresence`: muestra la presencia del programa en tu perfil de discord.
 
 <p align="left">
     <img src="https://cdn.discordapp.com/attachments/972568982190194740/992937126272450621/unknown.png"  draggable="false">
